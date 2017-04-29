@@ -1,0 +1,1 @@
+UPDATE npc_template SET gfxID=10209,sex=0 WHERE id=40001;

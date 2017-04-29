@@ -1,0 +1,1 @@
+N.d[40001] = {a: [1], n: " Statue de téléportation De Donjon ElySium"};

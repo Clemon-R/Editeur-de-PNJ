@@ -1,0 +1,1 @@
+N.d[40006] = {a: [5,6], n: "Vendeur Forgeron d\'ElySium"};
